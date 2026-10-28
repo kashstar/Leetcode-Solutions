@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/kashstar/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Database
+|  |
+| ------- |
+| [1084-sales-analysis-iii](https://github.com/kashstar/Leetcode-Solutions/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
