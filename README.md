@@ -120,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1084-sales-analysis-iii](https://github.com/kashstar/Leetcode-Solutions/tree/master/1084-sales-analysis-iii) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/kashstar/Leetcode-Solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
